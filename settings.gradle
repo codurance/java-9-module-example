@@ -1,0 +1,4 @@
+rootProject.name = 'module-internal'
+
+include 'mobiledoc'
+include 'module'
